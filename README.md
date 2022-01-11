@@ -1,4 +1,4 @@
-## 🦒 Hi! My name is [Bezhan](https://twitter.com/bezhanSalleh)
+## 🥷 Hi! My name is [Bezhan](https://twitter.com/bezhanSalleh)
 
 <p>
   <a href="https://twitter.com/bezhanSalleh">
