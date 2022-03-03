@@ -16,7 +16,7 @@ I am a full-stack developer, mainly working with Laravel, TALL stack & VueJs. I 
 
 
 ### 🔭 I'm currently working on...
-- [Filament Google Analytics](https://github.com/bezhanSalleh/filament-shield), Google Analytics integration for [Filament PHP](https://filamentphp.com/)
+- [Filament Google Analytics](https://github.com/bezhanSalleh/filament-google-analytics), Google Analytics integration for [Filament PHP](https://filamentphp.com/)
 - [Filament Shield](https://github.com/bezhanSalleh/filament-shield), the Most intuitive way to manage or add ACL to you [Filament PHP](https://filamentphp.com/).
 - [Roshan.af](https://roshan.af), a rebuild with Filament and Tailwind CSS.
 - [My Roshan](http://onelink.to/roshan) app, providing customers an efficient way to stay connected through Afghanistan’s largest telecommunications service provider anywhere inside the country and beyond.
