@@ -9,7 +9,8 @@
     <img alt="GitHub Sponsors" src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&style=for-the-badge&logo=github&color=FF69B4">
   </a>
 </p>
-<a href="https://github.com/bezhanSalleh"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=bezhanSalleh&show_icons=true" align="right" height="150" /></a>
+http://github-readme-stats-bezhansalleh.vercel.app/
+<a href="https://github.com/bezhanSalleh"><img alt="Git Stats" src="http://github-readme-stats-bezhansalleh.vercel.app/api?username=bezhanSalleh&show_icons=true" align="right" height="150" /></a>
 
 
 I am a full-stack developer, mainly working with Laravel, TALL stack & VueJs. I work for [Roshan](https://roshan.af) as an Application Developer, building innovative Applications for Mobile and Web in Telecom Industry!
