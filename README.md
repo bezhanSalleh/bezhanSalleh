@@ -10,7 +10,7 @@
   </a>
 </p>
 http://github-readme-stats-bezhansalleh.vercel.app/
-<a href="https://github.com/bezhanSalleh"><img alt="Git Stats" src="http://github-readme-stats-bezhansalleh.vercel.app/api?username=bezhanSalleh&show_icons=true" align="right" height="150" /></a>
+<a href="https://github.com/bezhanSalleh"><img alt="Git Stats" src="http://github-readme-stats-bezhansalleh.vercel.app/api?username=bezhanSalleh&show_icons=true&count_private=true" align="right" height="150" /></a>
 
 
 I am a full-stack developer, mainly working with Laravel, TALL stack & VueJs. I work for [Roshan](https://roshan.af) as an Application Developer, building innovative Applications for Mobile and Web in Telecom Industry!
