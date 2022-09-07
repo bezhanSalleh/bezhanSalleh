@@ -17,6 +17,7 @@ I am a full-stack developer, mainly working with Laravel, TALL stack & VueJs. I 
 
 ### 🔭 I'm currently working on...
 [![Filament Shield](https://github-readme-stats-bezhansalleh.vercel.app/api/pin/?username=bezhanSalleh&repo=filament-shield)](https://github.com/bezhanSalleh/filament-shield)
+[![Filament Exceptions](https://github-readme-stats-bezhansalleh.vercel.app/api/pin/?username=bezhanSalleh&repo=filament-exceptions)](https://github.com/bezhanSalleh/filament-exceptions)
 [![Filament Addons](https://github-readme-stats-bezhansalleh.vercel.app/api/pin/?username=bezhanSalleh&repo=filament-addons)](https://github.com/bezhanSalleh/filament-addons)
 [![Filament Language Switch](https://github-readme-stats-bezhansalleh.vercel.app/api/pin/?username=bezhanSalleh&repo=filament-language-switch)](https://github.com/bezhanSalleh/filament-language-switch)
 [![Filament Google Analytics](https://github-readme-stats-bezhansalleh.vercel.app/api/pin/?username=bezhanSalleh&repo=filament-google-analytics)](https://github.com/bezhanSalleh/filament-google-analytics)
